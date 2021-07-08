@@ -5,7 +5,6 @@ Y aquí viene un párrafo. Lorem   aospdfijasodfij aspdfija sdpofijapsdiojf ap
 ```js
 const cosa = ()=>{
     const thing = 1;
+    const alterthing = thing + 1;
 };
 ```
-
-
